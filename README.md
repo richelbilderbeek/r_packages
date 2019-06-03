@@ -6,7 +6,10 @@ Overview of my R packages.
 
 Package name |DOI
 -------------|--------
+[babette](https://github.com/ropensci/babette)|[![DOI](https://zenodo.org/badge/118616108.svg)](https://zenodo.org/badge/latestdoi/118616108)
+[beastier](https://github.com/ropensci/beastier)|[![DOI](https://zenodo.org/badge/115617629.svg)](https://zenodo.org/badge/latestdoi/115617629)
 [beautier](https://github.com/ropensci/beautier)|[![DOI](https://zenodo.org/badge/53443354.svg)](https://zenodo.org/badge/latestdoi/53443354)
+[mauricer](https://github.com/ropensci/mauricer)|.
 [tracerer](https://github.com/ropensci/beautier)|[![DOI](https://zenodo.org/badge/114987588.svg)](https://zenodo.org/badge/latestdoi/114987588)
 
 ## Build statuses
