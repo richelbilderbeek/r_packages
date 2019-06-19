@@ -4,7 +4,9 @@ Overview of R packages. I created and/or maintain and/or contributed to.
 
 ## Build statuses
 
-Package name |Travis|AppVeyor
+
+
+Package name |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)|[![AppVeyor logo](pics/AppVeyor.png)](https://www.appveyor.com)
 -------------|------|--------
 [babette](https://github.com/ropensci/babette)|[![Build Status](https://travis-ci.org/ropensci/babette.svg?branch=master)](https://travis-ci.org/ropensci/babette)|.
 [beastier](https://github.com/ropensci/beastier)|[![Build Status](https://travis-ci.org/ropensci/beastier.svg?branch=master)](https://travis-ci.org/ropensci/beastier)|.
@@ -17,7 +19,7 @@ Package name |Travis|AppVeyor
 
 ## Code coverage
 
-Name      |Codecov
+Name      |[![Codecov logo](pics/Codecov.png)](https://www.codecov.io)
 ----------|------------------
 [babette](https://github.com/ropensci/babette)  |[![codecov.io](https://codecov.io/github/ropensci/babette/coverage.svg?branch=master)](https://codecov.io/github/ropensci/babette/branch/master)
 [beastier](https://github.com/ropensci/beastier)|[![codecov.io](https://codecov.io/github/ropensci/beastier/coverage.svg?branch=master)](https://codecov.io/github/ropensci/beastier/branch/master)
